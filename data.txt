@@ -6,3 +6,4 @@ a | example@email.com | a
 Amazon | example@email.com | asdfasdf2x2d
 www.netflixandgrill.com | example@email.com | 2IBC)b#g*LWa2E&
 123 | example@email.com | s8p$MEi6R7#dv
+www.amazon.com | example@email.com | 7yk2rgnCg(M)j
